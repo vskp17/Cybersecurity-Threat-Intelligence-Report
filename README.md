@@ -52,13 +52,6 @@ Research sources used in this report include:
 • KrebsOnSecurity  
 • Verizon Data Breach Investigations Report  
 
-## Repository Contents
-
-Cybersecurity-Threat-Intelligence-Report
-│
-├── Cybersecurity_Threat_Report_Task1_V S K Prateek.pdf
-└── README.md
-
 ## Author
 
 V S K Prateek 
